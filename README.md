@@ -56,8 +56,8 @@ normal hash. If we know the structure, it is just a matter of using the right
 combination of keys.
 
 As we see examples of more complex data structures, we'll start to encounter
-situations where we aren't 100% of the structure of a hash. This is one reason
+situations where we aren't 100% sure of the structure of a hash. This is one reason
 why getting familiar with programmatically changing hash data is critical - we
 won't always be able to _see_ the hash we're changing. Instead, we'll have to
-write logic that and correctly handles accessing and updating hash data in a
-more abstracted way.
+write logic that correctly handles accessing and updating hash data in a
+more abstract way.
